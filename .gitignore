@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# Data & Reports
+data/olist/*.csv
+reports/*.csv
+reports/*.txt
+docker_log.txt
+test_root.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+.docker/
