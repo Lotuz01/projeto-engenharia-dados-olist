@@ -1,10 +1,10 @@
 # Olist Data Warehouse
 
-Projeto de portfólio de Engenharia de Dados com foco em ingestão, modelagem SQL e análise de desempenho logístico no e-commerce brasileiro.
+Pipeline de Engenharia e Análise de Dados que carrega dados públicos de e-commerce, organiza registros em camadas Raw, Staging e Marts e gera indicadores logísticos.
 
 **Stack principal:** Python, SQL, PostgreSQL e Docker.
 
-## O que o projeto demonstra
+## O que o pipeline entrega
 
 - Ingestão de arquivos CSV para uma camada Raw em PostgreSQL.
 - Padronização dos dados em Staging usando SQL.
